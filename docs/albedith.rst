@@ -32,7 +32,7 @@ any new changes.
 
 An indication saying in what file we were going to write certain code would have been helpful.
 
-A diagram indicating the expected final result Models --> Views --> Template
+A diagram indicating the expected final result... Models --> Views --> Template
 
 Section 5 in which we got to test the web app, talked too much about the importance about testing.
 Maybe this could have been a separated document that the user can be redirected to if they wanted to learn more about test.
